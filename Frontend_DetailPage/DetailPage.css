@@ -355,7 +355,7 @@ body{
     height: 20px;
 }
 
-.youtube-player-overlay{
+/* .youtube-player-overlay{
     position: fixed;
     inset : 0;
     background: rgba(0,0,0,6);
@@ -383,7 +383,7 @@ body{
 .youtube-player-popup iframe{
     width: 100%;
     aspect-ratio: 16/9;
-}
+} */
 
 
 .popup-container {
